@@ -1,11 +1,10 @@
 Anime Vault Fullstack app using Next JS, TypeScript, TailwindCSS & Framer Motion.
 
-### [Demo Link](https://jsmastery.pro/next14)
-### [Anime API](https://shikimori.one/api/doc/1.0/animes/index)
+### [Demo Link]()
+### [Anime API](https://shikimori.one/api/animes)
 
 Run locally:
 
-Create .env using the example
-Open Terminal
-Type: 'npm i'
-Type:'npm run dev'
+1. Open Terminal
+2. Type: 'npm i'
+3. Type:'npm run dev'
