@@ -1,6 +1,7 @@
-Anime Vault Fullstack app using Next JS, TypeScript, TailwindCSS & Framer Motion.
+Anime Vault Front-end oriented app using Next JS, TypeScript, TailwindCSS & Framer Motion.
 
 ### [Demo Link]()
+
 ### [Anime API](https://shikimori.one/api/animes)
 
 Run locally:
